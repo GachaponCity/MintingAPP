@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAD1D29DaFF595FfCE47d3a03533944158E24F05A",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xad1d29daff595ffce47d3a03533944158e24f05a",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Gachapon",
+  "SYMBOL": "GCPC",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 49000000000000000,
+  "DISPLAY_COST": 0.049,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/gunner",
+  "SHOW_BACKGROUND": true
+}
